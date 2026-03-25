@@ -1,2 +1,2 @@
 # Python-Safe-mage-Stamping/Python Güvenli Resim Damgalama
-Bu Python aracı, görsellere tahribatsız (non-destructive) bir şekilde metin filigranı eklemek için tasarlanmıştır. Basit editörlerin aksine bu sistem, her türlü görsel boyutunda tam merkezi matematiksel olarak hesaplayarak kusursuz hizalama sağlar.  Projenin temel felsefesi veri bütünlüğüdür. 
+Bu Python kodu, belirli bir dizindeki yazılı (bozulmuş) resmi sistemden kalıcı olarak silip, aynı klasörde güvenle saklanan orijinal temiz resmi kullanıcıya otomatik olarak geri açan bir kurtarma mekanizmasıdır. Java ile yazıldığında da aynı mantıkla çalışan bu sistem, dijital damgalama süreçlerinde hatalı işlemleri temizleyerek veri bütünlüğünü korumayı ve orijinal görsele hızlı erişimi hedefler.
