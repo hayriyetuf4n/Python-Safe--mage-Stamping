@@ -3,7 +3,7 @@ import os
 from PIL import Image
 
 #Temiz olan resmin yolu:
-orijinal_temiz_resim = r"C:\Users\siz\OneDrive\Masaüstü\nergis.jpg.jpg"
+orijinal_temiz_resim = r"C:\Users\siz\OneDrive\Masaüstü\ucanev.jpg.jpg"
 
 # Üzerine yazı eklenen(bozulmuş) resmin yolu:
 yazili_bozuk_resim =r"C:\Users\siz\OneDrive\Masaüstü\ucan_ev_tam_orta.jpg"# Damgalayacağımız resmi yol olarak kopyalayıp yapıştırıyoruz.
