@@ -1,9 +1,9 @@
 import os
 from PIL import Image, ImageDraw, ImageFont
 
-#
-orijinal_yol = r"C:\Users\siz\OneDrive\Masaüstü\nergis.jpg.jpg"
-cikti_yol = r"C:\Users\siz\OneDrive\Masaüstü\ucan_ev_tam_orta.jpg"
+
+orijinal_yol = r"C:\Users\siz\OneDrive\Masaüstü\ucanev.jpg.jpg"#Damgalayacağımız resmi yol olarak kopyaladıktan sonra buraya yapıştırıyoruz.
+cikti_yol = r"C:\Users\siz\OneDrive\Masaüstü\ucan_ev_tam_orta.jpg"#Resmin damgalandıktan sonraki yolu.
 
 def yazi_ekle_tam_orta():
     if not os.path.exists(orijinal_yol): #os.path.exists=yazıyı yazmadan önce dosya gerçekten o konumda mı diye bakıyor.
